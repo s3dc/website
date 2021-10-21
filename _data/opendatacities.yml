@@ -373,3 +373,12 @@
   texture:  No
   notes : 
   formats: KMZ
+
+- dataset: Lublin
+  link:    https://lublin3d.lublin.eu/#/export
+  country: Poland
+  building_lod: LoD1+LoD2
+  formats: several diff formats
+  year: 2020
+  texture:  no
+  # notes: 
